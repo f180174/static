@@ -1,0 +1,131 @@
+/* Menu */
+body{
+    text-align: center;
+    margin: 0;
+}
+ul{
+    list-style-type: none;
+}
+#menu {
+    background-color: #63b7af;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    }
+    .h1-bill{
+        margin: 50px auto 0px auto;
+        font-family: 'Sacramento', cursive;
+        font-size: 3.625rem;
+        font-style: italic;
+        color: pink;
+    }
+    .menu-links{
+        text-decoration: none;
+        padding-right: 410px;
+        font-size: 1.5rem;
+    
+    }
+    li{
+        padding-bottom: 20px;
+        text-align: left;
+    }
+    h3{
+        text-align: center;
+        
+        font-size: 2rem;
+    }
+    /* Bill-gates */
+    #bill-gates{
+        background-color:#b4b4b4;
+        text-align: center;
+        padding-top: 100px;
+        padding-bottom: 10px;
+    }
+    .bill-img{
+        width: 25%;
+        border-radius: 100%;  
+    }
+    h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    font-style: italic;
+    color: pink;
+    font-weight: normal;
+    padding-bottom: 10px;
+    }
+    .bill-paragraph{
+        width: 30%;
+        margin: 30px auto 30px auto;
+        line-height: 2;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.3rem;
+        text-align: left;
+    }
+    hr{
+    border: dotted 6px;
+    width: 5%;
+    border-top: none;
+    margin: 80px auto 80px auto;
+    color: #63b7af;
+    }
+    /* Early Life */
+.bill1-img{
+    width: 40%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+#early-life{
+    text-align: left;
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    width: 50%;
+}
+.bill-paragraph1{
+   
+    margin: 30px auto 30px auto;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+}
+.hr1{
+    border: dotted 6px;
+    width: 10%;
+    border-top: none;
+    margin: 80px auto 80px auto;
+    color: #63b7af;
+}
+h4{
+    text-align: center;
+}
+th{
+    padding-right: 80px;
+    font-size: 1.3rem;
+    /* color: pink; */
+}
+li{
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+td{
+    line-height: 2;
+    font-size: 1.1rem;
+}
+
+/* Bootom Section */
+#bottom-section{
+    background-color: #66bfbf;
+    padding: 50px 0 20px 0;
+}
+.footer-link{
+    color: pink;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+.copy{
+    color: white;
+    font-family: 'Merriweather', serif;
+}
